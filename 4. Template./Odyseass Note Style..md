@@ -1,5 +1,5 @@
 
-{{Date}}  {{Time}}
+{{date}}  {{time}}
 
 Status:
 
@@ -19,7 +19,7 @@ Location:
 
 
 
-
 ----
+
 
 
