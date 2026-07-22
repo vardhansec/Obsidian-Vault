@@ -5,9 +5,9 @@ Status:
 
 Tags:
 
-Location:
 
-# {{Title}}
+
+## Topic 1 - 
 
 
 
